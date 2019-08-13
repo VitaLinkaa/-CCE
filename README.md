@@ -1,0 +1,3 @@
+# layout_7hours
+Use: HTML, CSS, Slick, jQuery
+[Link for landing page](https://vitalinkaa.github.io/layout_7hours/)
