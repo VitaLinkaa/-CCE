@@ -1,3 +1,3 @@
-# layout_7hours
+# ССE
 Use: HTML, CSS(@media), Slick, jQuery.
-[Link for landing page](https://vitalinkaa.github.io/layout_7hours/)
+[ССE](https://vitalinkaa.github.io/layout_7hours/)
